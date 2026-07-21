@@ -2,15 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d1b2a,100:1a1a2e&height=220&section=header&text=Ruan%20Silva&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Startups&descAlignY=60&descSize=17&descColor=60a5fa"/>
 
-<a href="https://www.linkedin.com/in/theruansilva/">
+<a  target="_blank" href="https://www.linkedin.com/in/theruansilva/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:theruansilva@gmail.com">
+<a target="_blank" href="mailto:theruansilva@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://x.com/ProgmRuanSilva">
+<a target="_blank" href="https://x.com/ProgmRuanSilva">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
